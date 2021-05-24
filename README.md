@@ -41,5 +41,9 @@ Should the structure remain alive up to maturity, the floating coupon receiver r
 Callable valuation is based on numeric approaches, such as FPE or Monte-Carlo.
 
 
-Reference:
-https://finpricing.com/lib/EqCallable.html
+References:
+
+https://finpricing.com/lib/EqVariance.html
+
+https://fliphtml5.com/download/download-pdf-file.php?str=x0DZh9GTud3bENXamEzN4ETO3MTPkl0av9mY
+
